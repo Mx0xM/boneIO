@@ -14,7 +14,7 @@
 
 ![InputBoard](.resources/input_board_text.png?raw=true)
 
-<iframe src="https://myhub.autodesk360.com/ue28f460a/shares/public/SH9285eQTcf875d3c539b91b084873512ad0?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 
 - 52 digital inputs
 - 7 analog to digital converters
