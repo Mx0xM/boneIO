@@ -14,8 +14,11 @@
 
 ![InputBoard](.resources/input_board_text.png?raw=true)
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> parent of 0485a88 (Update README.md)
 - 52 digital inputs
 - 7 analog to digital converters
 - i2c
