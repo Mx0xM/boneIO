@@ -1,6 +1,6 @@
 # Project description
 
-![BonePic](.resources/boneIO_v0.2render.png?raw=true)
+![BonePic](.resources/boneio.jpg?raw=true)
 ![BoneDiagram](.resources/boneio.drawio.png?raw=true)
 
 `BoneIO` is a compact IO controller for home automation. Main features of this controller are
